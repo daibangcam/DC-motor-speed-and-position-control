@@ -1,5 +1,7 @@
 # DC-motor-speed-and-position-control
- 
+
+Điều khiển tốc độ và vị trí động cơ DC, sử dụng PIC18F4620, có mô phỏng và GUI đọc giá trị realtime
+
 ## Contact
 
 Name: Hoan Tran
